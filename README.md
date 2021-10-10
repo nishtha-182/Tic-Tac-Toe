@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
 
-<a href="demo.png">
+<a href="./demo.png">
